@@ -9,7 +9,7 @@
   "room-name": "Nome stanza",
   "enter-the-rooms-control": "Entra nella gestione della stanza",
   "show-tips": "Mosta alcuni suggerimenti..",
-  "added-notes": "\n<u><i>Aggiungi note:</i></u>\n<li>Chiunque può entrare in una stanza se conosce il nome, quindi mantienilo unico</li>\n<li>Invita solo persone fidate nella stanza.</li>\n<li>I dispositivi iOS condivideranno solo il loro audio con altri ospiti; questa è principalmente una limitazione hardware</li>\n<li>Opzione \"Registrazione\" è considerata opzioneale.</li>\n",
+  "added-notes": "\n<u><i>Aggiungi note:</i></u>\n<li>Chiunque può entrare in una stanza se conosce il nome, quindi mantienilo unico</li>\n<li>Invita solo persone fidate nella stanza.</li>\n<li>I dispositivi iOS condivideranno solo il loro audio con altri ospiti; questa è principalmente una limitazione hardware</li>\n<li>Opzione \"Registrazione\" è considerata opzionale.</li>\n",
   "back": "Indietro",
   "add-your-camera": "Aggiungi camera ad  OBS",
   "waiting-for-camera": "In attesa di caricamento",
